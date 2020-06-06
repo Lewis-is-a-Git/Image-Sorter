@@ -4,6 +4,12 @@ from tkinter import filedialog
 from PIL import Image, ImageTk
 import shutil
 
+# TODO: Show preview of next image
+# TODO: go back to last image
+# TODO: Show progress in folder
+# TODO: Show rate of sorting
+# TODO: make a scoring system with combos and streaks
+
 # global variables
 folderName = ""  # directory to folder
 listing = [""]  # list of all images in selected folder
